@@ -1,0 +1,9 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(rgb(204, 182, 182), rgb(1, 56, 1), rgb(212, 212, 230));
+}
